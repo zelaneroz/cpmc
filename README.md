@@ -13,7 +13,7 @@ The notebook in this repository (`.ipynb`) is responsible for end-to-end cleanin
 
 ## Usage
 
-Open the notebook in Jupyter or VS Code and run the cells in order. The pipeline assumes raw survey data is stored in the `data/` directory, and processed outputs will be generated in `processed/`.
+Open the notebook in Jupyter or VS Code and run the cells in order. The pipeline assumes raw survey data is stored in the main directory and is called `survey.csv`, and processed outputs will be generated in `processed/`.
 
 ## Project Context
 
